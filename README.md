@@ -6,11 +6,11 @@ The following is a collection of my university class projects and assignments du
 * <u><b>Compilers & Automata</u></b>
     + We will be building our own compiler using Lex and YACC, applying regular expressions and training Lex and YACC how to parse input, and define a specific ruleset for it to follow.
     <br>
-    <sub>* Repo will be available at the end of the semester to avoid plaigarism.</sub>
+    <sup>* Repo will be available at the end of the semester to avoid plaigarism.</sup>
 * <u><b>Software Development</u></b>
     + We will be working in teams to create a software solution for any idea we wish, while also maintaining source control and a high level of testing and documentation.
     <br>
-    <sub>* Repo will be available as soon as the project begins.</sub>
+    <sup>* Repo will be available as soon as the project begins.</sup>
 ---
 ## 🍂 <u>Fall 2021</u>
 
