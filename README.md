@@ -6,7 +6,7 @@ __||__ The following is a collection of my NMSU CS projects and assignments. ðŸ“
 * <u><b>Compilers & Automata</u></b>
     + We will be building our own compiler using Lex and YACC, applying regular expressions and training Lex and YACC how to parse input, and define a specific ruleset for it to follow.
     <br>
-    <sup>* Repo will be available at the end of the semester to avoid plaigarism.</sup>
+    <sup>* Repo will be available at the end of the semester to avoid plagiarism.</sup>
 * <u><b>Software Development</u></b>
     + We will be working in teams to create a software solution for any idea we wish, while also maintaining source control and a high level of testing and documentation.
     <br>
