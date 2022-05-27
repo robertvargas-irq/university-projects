@@ -2,15 +2,33 @@
 __||__ The following is a collection of my NMSU CS projects and assignments. 📓
 
 ---
-## 🌴 <u>Spring 2022</u> [Ongoing...]
-* <u><b>Compilers & Automata</u></b>
-    + We will be building our own compiler using Lex and YACC, applying regular expressions and training Lex and YACC how to parse input, and define a specific ruleset for it to follow.
+## 🌴 <u>Spring 2022</u>
+* <u><b>Compilers & Automata</u></b><br>[Repo Link](https://github.com/robertvargas-irq/compilers-and-automata-compiler)
+    + As individuals, we created a simple one-pass compiler to handle a language best described as a mix between ALGOL and C. Utilizing regular expressions through Lex, training YACC on how to parse input and structure it into the desired Intermediate Representation of an Abstract Syntax Tree, and emitting MIPS assembly code from a given input file to run on the MARS simulator, I was able to create a working compiler that could handle the following:
+        * Variable Declarations
+        * Function Declarations
+        * Assignment Statements
+        * Read-Write Statements
+        * If/If-Else Statements
+        * While Statements
+        * Expressions
+          + Addition, Subtraction
+          + Multiplication, Division
+          + BITWISE AND, OR
+          + LOGICAL NOT
+        * Function Calls
+        * Type-Checking
+          + Integer
+          + Boolean
+          + Void
+    
     <br>
-    <sup>* Repo will be available at the end of the semester to avoid plagiarism.</sup>
-* <u><b>Software Development</u></b>
-    + We will be working in teams to create a software solution for any idea we wish, while also maintaining source control and a high level of testing and documentation.
+    
+To avoid plagiarism, this repo is privated, but access is available upon request with a GitHub username at: [robertvargas.eptx@gmail.com](mailto:robertvargas.eptx@gmail.com?subject=[GitHub]%20CS370%20Compilers%20Repo%20Access&body=GitHub%20Username:%20)
+
+* <u><b>Software Development</u></b><br>[Individual Programs](https://github.com/robertvargas-irq/Programs) | [Group Project Repo](https://github.com/robertvargas-irq/project-ascdws) | [Group Project Site](https://matrom01-v2.github.io/ProjectASCDWS_Site/)
+    + We collaborated in small teams to create a software solution for any idea we wish, while also maintaining source control and a high level of testing and documentation. For this project, we chose and iterated through a small, 2D top-down RPG, programming in C# through the Unity Game Engine. More details can be found through the Project Website linked above.
     <br>
-    <sup>* Repo will be available as soon as the project begins.</sup>
 ---
 ## 🍂 <u>Fall 2021</u>
 
